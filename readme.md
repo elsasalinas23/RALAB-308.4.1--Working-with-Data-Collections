@@ -42,3 +42,5 @@ for (let i = 0; i < csvStr.length; i++) {
     console.log(cell1, cell2, cell3, cell4);
   }
 }
+
+***** Built with my own hands and logic, wiht beginner-friendly support from chat GPT to help me understand eah part step-by-step.****** 
